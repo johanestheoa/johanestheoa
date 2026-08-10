@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1">
+    <stop offset="0%" stop-color="#050816"/>
+    <stop offset="50%" stop-color="#0b1f3a"/>
+    <stop offset="100%" stop-color="#001f2e"/>
+  </linearGradient>
+  <radialGradient id="glow">
+    <stop offset="0%" stop-color="#00e5ff" stop-opacity=".32"/>
+    <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="1400" height="360" fill="url(#bg)"/>
+<circle cx="180" cy="100" r="260" fill="url(#glow)"/>
+<circle cx="1220" cy="260" r="300" fill="url(#glow)"/>
+<g fill="none" stroke="#00e5ff" stroke-opacity=".16">
+  <path d="M0 80H1400M0 160H1400M0 240H1400M0 320H1400"/>
+  <path d="M100 0V360M300 0V360M500 0V360M700 0V360M900 0V360M1100 0V360M1300 0V360"/>
+</g>
+<g fill="#00e5ff" opacity=".55">
+  <circle cx="110" cy="70" r="2"/><circle cx="350" cy="270" r="2"/>
+  <circle cx="820" cy="90" r="2"/><circle cx="1190" cy="150" r="2"/>
+  <circle cx="1320" cy="300" r="2"/>
+</g>
+<text x="700" y="155" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="6">JOHANES THEO ADRIAN</text>
+<text x="700" y="205" text-anchor="middle" fill="#00e5ff" font-family="monospace" font-size="20" letter-spacing="3">WEB • AI • API • CYBER SECURITY</text>
+<text x="700" y="260" text-anchor="middle" fill="#9fb3c8" font-family="monospace" font-size="15">INFORMATICS ENGINEERING • UKSW</text>
+</svg>
