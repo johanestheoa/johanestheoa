@@ -1,172 +1,299 @@
 <div align="center">
 
-<!-- ======================= HERO ======================= -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0b1f3a,100:00e5ff&height=230&section=header&text=JOHANES%20THEO%20ADRIAN&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=INFORMATICS%20ENGINEERING%20%7C%20WEB%20%7C%20AI%20%7C%20API%20%7C%20CYBER%20SECURITY&descAlignY=60&descSize=14&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05010f,45:12052b,100:00f5ff&height=180&section=header&text=JOHANES%20THEO%20ADRIAN&fontSize=40&fontColor=ffffff&fontAlignY=43&desc=WEB%20%7C%20AI%20%7C%20API%20%7C%20CYBERSECURITY&descAlignY=66&descSize=14&animation=fadeIn" width="100%"/>
 
 <br>
 
-<a href="https://github.com/urclown">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=Building+web+experiences+that+actually+work.;Integrating+AI+into+real-world+applications.;Designing+APIs+with+clean+logic+and+reliable+flows.;Learning+cybersecurity+one+layer+at+a+time." alt="Typing animation"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=760&lines=Informatics+Engineering+Student+%40+UKSW;Web+Developer+%7C+AI+Integration+%7C+API+Engineer;Cybersecurity+Enthusiast;Build+%E2%80%A2+Break+%E2%80%A2+Analyze+%E2%80%A2+Improve" alt="Typing animation"/>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=urclown&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/urclown"><img src="https://img.shields.io/badge/GITHUB-0A0714?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0A0714?style=for-the-badge&logo=linkedin&logoColor=00F5FF" /></a>
+<a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-0A0714?style=for-the-badge&logo=firefox&logoColor=FF2BD6" /></a>
 
 </div>
 
----
-
-## `> whoami`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  NAME        : Johanes Theo Adrian                           │
-│  ROLE        : Informatics Engineering Student               │
-│  UNIVERSITY  : Universitas Kristen Satya Wacana (UKSW)      │
-│  FOCUS       : Web Development • AI Integration • APIs       │
-│                Cybersecurity                                 │
-│  MINDSET     : Build → Break → Analyze → Improve             │
-└──────────────────────────────────────────────────────────────┘
-```
-
-I'm an **Informatics Engineering student at UKSW** who enjoys turning ideas into practical digital systems.
-
-My main interests sit at the intersection of **web development, artificial intelligence, API engineering, and cybersecurity**. I like understanding how systems work internally, solving problems logically, and continuously improving the way software is designed.
-
-> **I don't just want to make software work — I want to understand why it works.**
-
----
-
-## `> core.exe`
+<br>
 
 <div align="center">
 
-| ⚡ SPECIALIZATION | 🧠 STRENGTH |
-|:---:|:---:|
-| 🌐 Web Development | Problem Solving |
-| 🤖 AI Integration | Logical Thinking |
-| 🔌 API Engineering | Data & Numeric Analysis |
-| 🛡️ Cybersecurity | Systematic Debugging |
+`WEB DEVELOPMENT` &nbsp;•&nbsp; `AI INTEGRATION` &nbsp;•&nbsp; `API ENGINEERING` &nbsp;•&nbsp; `CYBERSECURITY`
 
 </div>
 
 ---
 
-## `> tech_stack --list`
+## `01 / ABOUT`
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### Hi, I'm Johanes 👋
+
+I'm an **Informatics Engineering student at Universitas Kristen Satya Wacana (UKSW)** with a strong interest in building practical digital systems.
+
+My main focus is **Web Development, AI Integration, API Engineering**, and **Cybersecurity**.
+
+I enjoy taking a problem, breaking it into smaller pieces, understanding the underlying logic, and turning it into a working solution.
+
+> **I don't just want to make software work.  
+> I want to understand why it works.**
+
+</td>
+<td width="45%" valign="top">
+
+### `profile.json`
+
+```json
+{
+  "name": "Johanes Theo Adrian",
+  "education": "Informatics Engineering",
+  "university": "UKSW",
+  "focus": [
+    "Web Development",
+    "AI Integration",
+    "API Engineering",
+    "Cybersecurity"
+  ],
+  "mindset": "Build. Analyze. Improve."
+}
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `02 / SPECIALIZATION`
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🌐
+### WEB
+
+Modern web applications  
+Frontend & backend  
+UI-focused development
+
+</td>
+<td align="center" width="25%">
+
+### ◈
+### AI
+
+AI API integration  
+Automation  
+Intelligent applications
+
+</td>
+<td align="center" width="25%">
+
+### ⚡
+### API
+
+REST APIs  
+Backend logic  
+System integration
+
+</td>
+<td align="center" width="25%">
+
+### ◉
+### SECURITY
+
+Cybersecurity  
+System awareness  
+Security-minded development
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## `03 / TECH STACK`
 
 ### Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js" alt="Languages"/>
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php" />
+</div>
 
-### Frameworks, Runtime & Tools
+### Frameworks & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,git,github,vscode,figma,linux" alt="Tools"/>
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=laravel,git,github,vscode,figma,linux" />
+</div>
 
-> **Current direction:** combining web technologies with APIs, AI services, databases, automation, and security-minded development.
-
----
-
-## `> architecture`
-
-```text
-                         ┌──────────────────────┐
-                         │       USER / UI      │
-                         └──────────┬───────────┘
-                                    │
-                                    ▼
-                    ┌──────────────────────────────┐
-                    │       WEB APPLICATION        │
-                    │   HTML • CSS • JavaScript    │
-                    └──────────────┬───────────────┘
-                                   │
-                    ┌──────────────┴──────────────┐
-                    ▼                             ▼
-          ┌─────────────────┐           ┌─────────────────┐
-          │   API / BACKEND  │           │   AI SERVICES   │
-          │ Laravel • REST   │           │ LLM • AI APIs  │
-          └────────┬────────┘           └────────┬────────┘
-                   │                             │
-                   └──────────────┬──────────────┘
-                                  ▼
-                       ┌─────────────────────┐
-                       │  DATA / DATABASE    │
-                       └─────────────────────┘
-                                  │
-                                  ▼
-                       ┌─────────────────────┐
-                       │ SECURITY & LOGGING  │
-                       └─────────────────────┘
-```
-
----
-
-## `> selected_projects`
-
-> Replace the placeholders below with your real projects.
-
-### `01` — PROJECT NAME
-**Short description:** What problem does the project solve?
-
-**Stack:** `HTML` `CSS` `JavaScript` `Laravel` `API`
-
-**Highlights**
-- Feature / functionality
-- Interesting technical challenge
-- Result or impact
-
-[View Repository](#)
-
----
-
-### `02` — PROJECT NAME
-**Short description:** What did you build and why?
-
-**Stack:** `C++` `JavaScript` `API` `AI`
-
-**Highlights**
-- Feature / functionality
-- AI/API integration
-- Technical achievement
-
-[View Repository](#)
-
----
-
-### `03` — PROJECT NAME
-**Short description:** Add another project here.
-
-**Stack:** `Your` `Tech` `Stack`
-
-[View Repository](#)
-
----
-
-## `> certifications`
-
-> Add certificates, courses, competitions, or achievements here.
-
-| 📜 Certificate / Achievement | 🏢 Issuer | 📅 Year | 🔗 Credential |
-|---|---|:---:|---|
-| Certificate Name | Organization | 2026 | [View](#) |
-| Certificate Name | Organization | 2026 | [View](#) |
-| Certificate Name | Organization | 2026 | [View](#) |
-| Achievement / Competition | Organization | 2026 | [View](#) |
-
----
-
-## `> github --stats`
+### Core Strengths
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=urclown&show_icons=true&hide_border=true&bg_color=050816&title_color=00e5ff&text_color=c9d1d9&icon_color=00e5ff&ring_color=00e5ff" alt="GitHub Stats"/>
+<img src="https://img.shields.io/badge/PROBLEM_SOLVING-12052B?style=for-the-badge&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/LOGICAL_THINKING-12052B?style=for-the-badge&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/DATA_ANALYSIS-12052B?style=for-the-badge&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/NUMERIC_ANALYSIS-12052B?style=for-the-badge&logoColor=00F5FF"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urclown&layout=compact&hide_border=true&bg_color=050816&title_color=00e5ff&text_color=c9d1d9" alt="Top Languages"/>
+</div>
+
+---
+
+## `04 / SELECTED PROJECTS`
+
+> Replace these placeholders with your actual projects.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ PROJECT 01
+
+**Project Name**
+
+A short explanation of the project, the problem it solves, and the interesting technical aspect behind it.
+
+**Stack**
+
+`HTML` `CSS` `JavaScript` `Laravel`
+
+<br>
+
+**[↗ View Repository](#)**
+
+</td>
+<td width="50%" valign="top">
+
+### ◇ PROJECT 02
+
+**Project Name**
+
+Describe an application, AI integration, API system, or other technical project.
+
+**Stack**
+
+`C++` `JavaScript` `API` `AI`
+
+<br>
+
+**[↗ View Repository](#)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⬡ PROJECT 03
+
+**Project Name**
+
+Add another project that demonstrates your technical ability.
+
+**Stack**
+
+`Technology` `Technology` `Technology`
+
+<br>
+
+**[↗ View Repository](#)**
+
+</td>
+<td width="50%" valign="top">
+
+### ✦ PROJECT 04
+
+**Project Name**
+
+Use this space for your strongest or most recent project.
+
+**Stack**
+
+`Technology` `Technology` `Technology`
+
+<br>
+
+**[↗ View Repository](#)**
+
+</td>
+</tr>
+</table>
+
+---
+
+## `05 / CERTIFICATIONS & ACHIEVEMENTS`
+
+> Add your certificates, courses, competitions, or achievements here.
+
+<div align="center">
+
+| `CERTIFICATE / ACHIEVEMENT` | `ISSUER` | `YEAR` | `LINK` |
+|:---|:---|:---:|:---:|
+| **Certificate Name** | Organization | 2026 | [↗](#) |
+| **Certificate Name** | Organization | 2026 | [↗](#) |
+| **Certificate Name** | Organization | 2026 | [↗](#) |
+| **Competition / Achievement** | Organization | 2026 | [↗](#) |
+
+</div>
+
+---
+
+## `06 / GITHUB`
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=urclown&show_icons=true&hide_border=true&bg_color=0A0714&title_color=00F5FF&text_color=E7E2F3&icon_color=FF2BD6&ring_color=00F5FF" alt="GitHub Stats"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urclown&layout=compact&hide_border=true&bg_color=0A0714&title_color=00F5FF&text_color=E7E2F3" alt="Top Languages"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=urclown&hide_border=true&background=0A0714&ring=00F5FF&fire=FF2BD6&currStreakLabel=00F5FF&sideLabels=E7E2F3&dates=777080&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## `07 / MINDSET`
+
+<div align="center">
+
+```text
+     BUILD
+       │
+       ▼
+     TEST
+       │
+       ▼
+    ANALYZE
+       │
+       ▼
+    IMPROVE
+       │
+       └───────────────► REPEAT
+```
+
+### BUILD WITH LOGIC · THINK IN SYSTEMS · KEEP LEARNING
+
+</div>
+
+---
+
+## `08 / CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/urclown"><img src="https://img.shields.io/badge/GitHub-0A0714?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A0714?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-0A0714?style=for-the-badge&logo=firefox&logoColor=FF2BD6"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0A0714?style=for-the-badge&logo=gmail&logoColor=FF2BD6"/></a>
 
 </div>
 
@@ -174,87 +301,10 @@ My main interests sit at the intersection of **web development, artificial intel
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=urclown&hide_border=true&background=050816&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## `> contribution_graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=urclown&bg_color=050816&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## `> currently_building`
-
-```text
-[██████████████████░░] 90%
-
-WEB DEVELOPMENT     ████████████████████  100%
-API ENGINEERING     ██████████████████░░   90%
-AI INTEGRATION      ████████████████░░░░   80%
-CYBER SECURITY      ██████████████░░░░░░   70%
-```
-
----
-
-## `> philosophy`
-
-<div align="center">
-
-### **BUILD WITH LOGIC.**
-### **THINK IN SYSTEMS.**
-### **LEARN FROM FAILURE.**
-### **SHIP SOMETHING BETTER.**
-
-</div>
-
----
-
-## `> connect`
-
-<div align="center">
-
-<a href="https://github.com/urclown">
-  <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=firefox&logoColor=00E5FF" alt="Portfolio"/>
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email"/>
-</a>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:5B21B6,100:FF2BD6&height=55&section=footer" width="100%"/>
 
 <br>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0b1f3a,100:050816&height=120&section=footer" width="100%"/>
+`© Johanes Theo Adrian`
 
 </div>
-
-<!--
-============================================================
-CUSTOMIZATION NOTES
-
-1. Replace "urclown" with your actual GitHub username if needed.
-2. Replace all project placeholders in "selected_projects".
-3. Replace certificate placeholders in "certifications".
-4. Replace # links in the connect section.
-5. Replace the email address.
-6. You can add more technologies to skillicons.dev.
-7. The visual services used here generate images/SVGs remotely;
-   if one service is unavailable, the rest of the README still works.
-
-============================================================
--->
