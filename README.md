@@ -236,26 +236,8 @@ Building a personal portfolio website to showcase your profile, skills, experien
 
 | `CERTIFICATE / ACHIEVEMENT` | `ISSUER` | `YEAR` | `LINK` |
 |:---|:---|:---:|:---:|
-| **Certificate Name** | Organization | 2026 | [↗](#) |
-| **Certificate Name** | Organization | 2026 | [↗](#) |
-| **Certificate Name** | Organization | 2026 | [↗](#) |
-| **Competition / Achievement** | Organization | 2026 | [↗](#) |
-
-</div>
-
----
-
-## `06 / GITHUB`
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=urclown&show_icons=true&hide_border=true&bg_color=0A0714&title_color=00F5FF&text_color=E7E2F3&icon_color=FF2BD6&ring_color=00F5FF" alt="GitHub Stats"/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urclown&layout=compact&hide_border=true&bg_color=0A0714&title_color=00F5FF&text_color=E7E2F3" alt="Top Languages"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=urclown&hide_border=true&background=0A0714&ring=00F5FF&fire=FF2BD6&currStreakLabel=00F5FF&sideLabels=E7E2F3&dates=777080&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+| **Building a Competitive Profile Before 30** | PPI Jepang | 2026 | [**↗ View**](assets/ppi-jepang.jpeg) |
+| **ACLEC — Participant** | HMP S1 Teknik Informatika | 2026 | [**↗ View**](assets/aclec.jpeg) |
 
 </div>
 
@@ -290,10 +272,9 @@ Building a personal portfolio website to showcase your profile, skills, experien
 
 <div align="center">
 
-<a href="https://github.com/urclown"><img src="https://img.shields.io/badge/GitHub-0A0714?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A0714?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-0A0714?style=for-the-badge&logo=firefox&logoColor=FF2BD6"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0A0714?style=for-the-badge&logo=gmail&logoColor=FF2BD6"/></a>
+<a href="https://github.com/johanestheoa"><img src="https://img.shields.io/badge/GitHub-0A0714?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
+<a href="www.linkedin.com/in/johanes-adrian-54669a321"><img src="https://img.shields.io/badge/LinkedIn-0A0714?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/></a>
+<a href="mailto:johanestheo07@gmail.com"><img src="https://img.shields.io/badge/Email-0A0714?style=for-the-badge&logo=gmail&logoColor=FF2BD6"/></a>
 
 </div>
 
