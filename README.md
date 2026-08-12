@@ -8,9 +8,9 @@
 
 <br><br>
 
-<a href="https://github.com/urclown"><img src="https://img.shields.io/badge/GITHUB-0A0714?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0A0714?style=for-the-badge&logo=linkedin&logoColor=00F5FF" /></a>
-<a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-0A0714?style=for-the-badge&logo=firefox&logoColor=FF2BD6" /></a>
+<a href="https://github.com/johanestheoa"><img src="https://img.shields.io/badge/GITHUB-0A0714?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+<a href="www.linkedin.com/in/johanes-adrian-54669a321"><img src="https://img.shields.io/badge/LINKEDIN-0A0714?style=for-the-badge&logo=linkedin&logoColor=00F5FF" /></a>
+
 
 </div>
 
