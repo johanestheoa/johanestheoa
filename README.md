@@ -149,8 +149,6 @@ Security-minded development
 
 ## `04 / SELECTED PROJECTS`
 
-> Replace these placeholders with your actual projects.
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -229,8 +227,6 @@ Building a personal portfolio website to showcase your profile, skills, experien
 ---
 
 ## `05 / CERTIFICATIONS & ACHIEVEMENTS`
-
-> Add your certificates, courses, competitions, or achievements here.
 
 <div align="center">
 
