@@ -30,7 +30,7 @@
 <tr>
 <td width="55%" valign="top">
 
-### Hi, I'm Johanes 👋
+### Hi, I'm Theo 👋
 
 I'm an **Informatics Engineering student at Universitas Kristen Satya Wacana (UKSW)** with a strong interest in building practical digital systems.
 
@@ -157,13 +157,13 @@ Security-minded development
 
 ### ◈ PROJECT 01
 
-**Project Name**
+**AI-Integration**
 
-A short explanation of the project, the problem it solves, and the interesting technical aspect behind it.
+An experiment integrating AI into a website using the Gemini API to deliver interactive features powered by artificial intelligence. This project focuses on implementing communication between the website and the AI via the API.
 
 **Stack**
 
-`HTML` `CSS` `JavaScript` `Laravel`
+`HTML` `CSS` `JavaScript`
 
 <br>
 
