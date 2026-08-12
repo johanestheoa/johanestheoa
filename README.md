@@ -167,24 +167,24 @@ A short explanation of the project, the problem it solves, and the interesting t
 
 <br>
 
-**[↗ View Repository](#)**
+**[↗ View Repository](https://github.com/johanestheoa/AI-Integration)**
 
 </td>
 <td width="50%" valign="top">
 
 ### ◇ PROJECT 02
 
-**Project Name**
+**Pnarach**
 
-Describe an application, AI integration, API system, or other technical project.
+Developing a website for Pnarach Cafe & Resto as a digital information platform that showcases the menu, ambiance, and information about the cafe in an engaging and easily accessible way. This project focuses on modern, responsive design and a comfortable user experience.
 
 **Stack**
 
-`C++` `JavaScript` `API` `AI`
+`HTML` `JavaScript` `CSS` `Laravel`
 
 <br>
 
-**[↗ View Repository](#)**
+**[↗ View Repository](https://github.com/johanestheoa/Pnarach)**
 
 </td>
 </tr>
@@ -193,34 +193,34 @@ Describe an application, AI integration, API system, or other technical project.
 
 ### ⬡ PROJECT 03
 
-**Project Name**
+**SIA.Sat-Reborn**
 
-Add another project that demonstrates your technical ability.
+Revamping Sia.SAT as an integrated digital platform to help students manage their various academic and administrative needs more easily, quickly, and efficiently. This project includes the development of the user interface, the authentication system, and database integration to support student data management.
 
 **Stack**
 
-`Technology` `Technology` `Technology`
+`HTML` `CSS` `JavaScript` `API KEY` `Figma`
 
 <br>
 
-**[↗ View Repository](#)**
+**[↗ View Repository](https://github.com/johanestheoa/SIA.Sat-Reborn)**
 
 </td>
 <td width="50%" valign="top">
 
 ### ✦ PROJECT 04
 
-**Project Name**
+**johanestheoa**
 
-Use this space for your strongest or most recent project.
+Building a personal portfolio website to showcase your profile, skills, experience, and completed projects. The website is designed with a modern, responsive, and interactive layout to provide a professional digital presence.
 
 **Stack**
 
-`Technology` `Technology` `Technology`
+`md` `svg`
 
 <br>
 
-**[↗ View Repository](#)**
+**[↗ View Repository](github.com/johanestheoa)**
 
 </td>
 </tr>
